@@ -1,5 +1,9 @@
 # wxcloud-to-ecs-skills
 
+微信云开发迁移阿里云 ECS / CloudBase 迁移自建服务器 / 小程序云函数迁移 / 微信小程序云开发迁移 / TCB 迁移后端服务。
+
+Keywords: WeChat Mini Program, CloudBase, TCB, Aliyun ECS, cloud function migration, self-hosted backend, Codex Skills.
+
 本仓库旨在提供一套通用的迁移方法论，协助开发者将依赖微信小程序云开发（Cloudbase/TCB）的项目，逐步迁移至 ECS 或其他自建服务器架构。
 
 本仓库重点在于**迁移方法与路径规划**，不包含具体业务逻辑。
